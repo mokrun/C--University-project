@@ -1,5 +1,5 @@
 # Csharp-Uni-project
-This is a project of a family Task Planner. It has different levels of privacy.  
+This is a project of a family Task Planner. It has different levels of privacy and employs OOP principles.  
 First of all, the program creates a .txt database at path set at the top of Database.cs file (default is C:\db.txt), please change that to whatever you'd like.  
 To access the program you need to pass the login screen, by default password for "Dad" is 0, "Mom" is 1, "Boy" is 2, "Girl" is 3.  
 Parents create "Adult", "Kids" and "Family" tasks, as well as their personal tasks.  
